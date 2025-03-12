@@ -1,0 +1,75 @@
+{"frames": {
+
+"landscape_endOfGameMessageWinBackground":
+{
+	"frame": {"x":1447,"y":902,"w":925,"h":400},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":925,"h":400},
+	"sourceSize": {"w":925,"h":400},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"landscape_timeOutMessageBackground":
+{
+	"frame": {"x":1447,"y":3,"w":895,"h":437},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":895,"h":437},
+	"sourceSize": {"w":895,"h":437},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"landscape_timeOutMessageOverlay":
+{
+	"frame": {"x":3,"y":3,"w":1440,"h":810},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1440,"h":810},
+	"sourceSize": {"w":1440,"h":810},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"loseMessageLand":
+{
+	"frame": {"x":3,"y":1631,"w":905,"h":380},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":905,"h":380},
+	"sourceSize": {"w":905,"h":380},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"portrait_endOfGameMessageWinBackground":
+{
+	"frame": {"x":1447,"y":902,"w":925,"h":400},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":925,"h":400},
+	"sourceSize": {"w":925,"h":400},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"portrait_timeOutMessageOverlay":
+{
+	"frame": {"x":3,"y":817,"w":810,"h":1440},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":810,"h":1440},
+	"sourceSize": {"w":810,"h":1440},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"winMessageLand":
+{
+	"frame": {"x":1447,"y":902,"w":925,"h":400},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":925,"h":400},
+	"sourceSize": {"w":925,"h":400},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "plaques-0.png",
+	"format": "RGBA8888",
+	"size": {"w":1887,"h":2014},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:08b0652603da5a1b306e4f6bfe7d846d:3e739bedfcbdda376c26136c6779c0f5:0136194d2339e82a5070d8e97ee180c7$"
+}
+}

@@ -1,0 +1,401 @@
+
+backgroundAnims.jpg
+size: 1626,1444
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/BGs/bg
+  rotate: true
+  xy: 2, 2
+  size: 1440, 810
+  orig: 1440, 810
+  offset: 0, 0
+  index: -1
+images/BGs/bg_port
+  rotate: false
+  xy: 814, 2
+  size: 810, 1440
+  orig: 810, 1440
+  offset: 0, 0
+  index: -1
+
+backgroundAnims2.jpg
+size: 1363,410
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/FX/landGlowFlicker
+  rotate: false
+  xy: 2, 3
+  size: 720, 405
+  orig: 720, 405
+  offset: 0, 0
+  index: -1
+images/FX/moltonPour
+  rotate: false
+  xy: 1312, 2
+  size: 49, 406
+  orig: 342, 510
+  offset: 147, 51
+  index: -1
+images/FX/portGlowFlicker
+  rotate: true
+  xy: 724, 3
+  size: 405, 586
+  orig: 405, 720
+  offset: 0, 134
+  index: -1
+
+backgroundAnims3.jpg
+size: 2040,2023
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/FX/steam/steamBurst_0070
+  rotate: false
+  xy: 2, 1904
+  size: 260, 117
+  orig: 720, 720
+  offset: 249, 0
+  index: -1
+images/FX/steam/steamBurst_0071
+  rotate: false
+  xy: 264, 1891
+  size: 277, 130
+  orig: 720, 720
+  offset: 238, 0
+  index: -1
+images/FX/steam/steamBurst_0072
+  rotate: false
+  xy: 543, 1875
+  size: 292, 146
+  orig: 720, 720
+  offset: 227, 0
+  index: -1
+images/FX/steam/steamBurst_0073
+  rotate: false
+  xy: 837, 1860
+  size: 305, 161
+  orig: 720, 720
+  offset: 218, 0
+  index: -1
+images/FX/steam/steamBurst_0074
+  rotate: false
+  xy: 1144, 1846
+  size: 320, 175
+  orig: 720, 720
+  offset: 208, 0
+  index: -1
+images/FX/steam/steamBurst_0075
+  rotate: false
+  xy: 1466, 1830
+  size: 333, 191
+  orig: 720, 720
+  offset: 200, 0
+  index: -1
+images/FX/steam/steamBurst_0076
+  rotate: false
+  xy: 2, 1681
+  size: 344, 208
+  orig: 720, 720
+  offset: 195, 0
+  index: -1
+images/FX/steam/steamBurst_0077
+  rotate: false
+  xy: 348, 1648
+  size: 354, 225
+  orig: 720, 720
+  offset: 193, 0
+  index: -1
+images/FX/steam/steamBurst_0078
+  rotate: false
+  xy: 704, 1616
+  size: 367, 242
+  orig: 720, 720
+  offset: 188, 0
+  index: -1
+images/FX/steam/steamBurst_0079
+  rotate: false
+  xy: 1073, 1585
+  size: 378, 259
+  orig: 720, 720
+  offset: 182, 0
+  index: -1
+images/FX/steam/steamBurst_0080
+  rotate: false
+  xy: 2, 1369
+  size: 390, 277
+  orig: 720, 720
+  offset: 177, 0
+  index: -1
+images/FX/steam/steamBurst_0081
+  rotate: false
+  xy: 914, 1289
+  size: 398, 294
+  orig: 720, 720
+  offset: 177, 0
+  index: -1
+images/FX/steam/steamBurst_0082
+  rotate: false
+  xy: 1314, 1186
+  size: 404, 311
+  orig: 720, 720
+  offset: 180, 0
+  index: -1
+images/FX/steam/steamBurst_0083
+  rotate: false
+  xy: 537, 958
+  size: 416, 329
+  orig: 720, 720
+  offset: 175, 0
+  index: -1
+images/FX/steam/steamBurst_0084
+  rotate: false
+  xy: 1494, 833
+  size: 436, 351
+  orig: 720, 720
+  offset: 163, 0
+  index: -1
+images/FX/steam/steamBurst_0085
+  rotate: true
+  xy: 535, 499
+  size: 457, 371
+  orig: 720, 720
+  offset: 150, 0
+  index: -1
+images/FX/steam/steamBurst_0086
+  rotate: false
+  xy: 1435, 439
+  size: 478, 392
+  orig: 720, 720
+  offset: 134, 0
+  index: -1
+images/FX/steam/steamBurst_0087
+  rotate: false
+  xy: 527, 52
+  size: 487, 414
+  orig: 720, 720
+  offset: 125, 0
+  index: -1
+images/FX/steam/steamBurst_0088
+  rotate: false
+  xy: 1544, 2
+  size: 494, 435
+  orig: 720, 720
+  offset: 115, 0
+  index: -1
+images/FX/steam/steamBurst_0109
+  rotate: false
+  xy: 1016, 20
+  size: 526, 417
+  orig: 720, 720
+  offset: 125, 158
+  index: -1
+images/FX/steam/steamBurst_0110
+  rotate: false
+  xy: 2, 243
+  size: 523, 404
+  orig: 720, 720
+  offset: 124, 176
+  index: -1
+images/FX/steam/steamBurst_0111
+  rotate: false
+  xy: 908, 468
+  size: 525, 382
+  orig: 720, 720
+  offset: 117, 199
+  index: -1
+images/FX/steam/steamBurst_0112
+  rotate: false
+  xy: 2, 649
+  size: 531, 356
+  orig: 720, 720
+  offset: 114, 219
+  index: -1
+images/FX/steam/steamBurst_0113
+  rotate: false
+  xy: 955, 852
+  size: 537, 332
+  orig: 720, 720
+  offset: 114, 239
+  index: -1
+images/FX/steam/steamBurst_0114
+  rotate: false
+  xy: 2, 1007
+  size: 533, 314
+  orig: 720, 720
+  offset: 117, 260
+  index: -1
+images/FX/steam/steamBurst_0115
+  rotate: false
+  xy: 394, 1323
+  size: 518, 291
+  orig: 720, 720
+  offset: 121, 289
+  index: -1
+images/FX/steam/steamBurst_0116
+  rotate: false
+  xy: 1453, 1499
+  size: 506, 260
+  orig: 720, 720
+  offset: 129, 326
+  index: -1
+images/FX/steam/steamBurst_0117
+  rotate: true
+  xy: 1801, 1761
+  size: 260, 213
+  orig: 720, 720
+  offset: 263, 369
+  index: -1
+
+backgroundAnims4.jpg
+size: 1676,1692
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/FX/steam/steamBurst_0092
+  rotate: true
+  xy: 1124, 86
+  size: 525, 511
+  orig: 720, 720
+  offset: 115, 0
+  index: -1
+images/FX/steam/steamBurst_0093
+  rotate: false
+  xy: 1110, 613
+  size: 534, 534
+  orig: 720, 720
+  offset: 115, 0
+  index: -1
+images/FX/steam/steamBurst_0094
+  rotate: true
+  xy: 571, 34
+  size: 541, 551
+  orig: 720, 720
+  offset: 109, 0
+  index: -1
+images/FX/steam/steamBurst_0095
+  rotate: false
+  xy: 571, 577
+  size: 537, 570
+  orig: 720, 720
+  offset: 112, 0
+  index: -1
+images/FX/steam/steamBurst_0096
+  rotate: true
+  xy: 552, 1149
+  size: 541, 565
+  orig: 720, 720
+  offset: 106, 0
+  index: -1
+images/FX/steam/steamBurst_0097
+  rotate: true
+  xy: 2, 571
+  size: 542, 567
+  orig: 720, 720
+  offset: 108, 0
+  index: -1
+images/FX/steam/steamBurst_0098
+  rotate: false
+  xy: 2, 1115
+  size: 548, 575
+  orig: 720, 720
+  offset: 105, 1
+  index: -1
+images/FX/steam/steamBurst_0099
+  rotate: false
+  xy: 2, 2
+  size: 534, 567
+  orig: 720, 720
+  offset: 105, 12
+  index: -1
+images/FX/steam/steamBurst_0100
+  rotate: true
+  xy: 1119, 1172
+  size: 518, 555
+  orig: 720, 720
+  offset: 112, 23
+  index: -1
+
+backgroundAnims5.jpg
+size: 2005,1489
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/FX/steam/steamBurst_0089
+  rotate: false
+  xy: 2, 12
+  size: 498, 452
+  orig: 720, 720
+  offset: 118, 0
+  index: -1
+images/FX/steam/steamBurst_0090
+  rotate: false
+  xy: 1041, 2
+  size: 509, 472
+  orig: 720, 720
+  offset: 119, 0
+  index: -1
+images/FX/steam/steamBurst_0091
+  rotate: true
+  xy: 1041, 476
+  size: 517, 491
+  orig: 720, 720
+  offset: 118, 0
+  index: -1
+images/FX/steam/steamBurst_0101
+  rotate: true
+  xy: 510, 456
+  size: 498, 529
+  orig: 720, 720
+  offset: 122, 34
+  index: -1
+images/FX/steam/steamBurst_0102
+  rotate: true
+  xy: 961, 995
+  size: 492, 523
+  orig: 720, 720
+  offset: 139, 47
+  index: -1
+images/FX/steam/steamBurst_0103
+  rotate: false
+  xy: 2, 466
+  size: 506, 513
+  orig: 720, 720
+  offset: 132, 60
+  index: -1
+images/FX/steam/steamBurst_0104
+  rotate: false
+  xy: 2, 981
+  size: 516, 506
+  orig: 720, 720
+  offset: 124, 75
+  index: -1
+images/FX/steam/steamBurst_0105
+  rotate: false
+  xy: 1486, 996
+  size: 517, 491
+  orig: 720, 720
+  offset: 122, 89
+  index: -1
+images/FX/steam/steamBurst_0106
+  rotate: true
+  xy: 1534, 477
+  size: 517, 468
+  orig: 720, 720
+  offset: 122, 106
+  index: -1
+images/FX/steam/steamBurst_0107
+  rotate: false
+  xy: 502, 11
+  size: 527, 443
+  orig: 720, 720
+  offset: 115, 122
+  index: -1
+images/FX/steam/steamBurst_0108
+  rotate: true
+  xy: 520, 956
+  size: 531, 439
+  orig: 720, 720
+  offset: 115, 138
+  index: -1

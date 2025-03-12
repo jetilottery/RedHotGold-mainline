@@ -1,0 +1,21 @@
+{
+  "urls": [
+    "ch9.ogg",
+    "ch9.m4a"
+  ],
+  "sprite": {
+    "silence": [
+      0,
+      1000,
+      true
+    ],
+    "MatchingSymbolSelect_2": [
+      1050,
+      1128.7528344671205
+    ],
+    "MultiplierLight_2": [
+      3100.0000000000005,
+      683.7868480725624
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{"frames": {
+
+"infoWindow":
+{
+	"frame": {"x":807,"y":1361,"w":825,"h":452},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":10,"w":825,"h":452},
+	"sourceSize": {"w":839,"h":470},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"landscape_endOfGameMessageNoWinBackground":
+{
+	"frame": {"x":1636,"y":817,"w":810,"h":380},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":810,"h":380},
+	"sourceSize": {"w":810,"h":380},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"landscape_tutorialOverlay":
+{
+	"frame": {"x":3,"y":3,"w":1440,"h":767},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1440,"h":767},
+	"sourceSize": {"w":1440,"h":767},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"loseMessagePort":
+{
+	"frame": {"x":1636,"y":817,"w":810,"h":380},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":810,"h":380},
+	"sourceSize": {"w":810,"h":380},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"portrait_endOfGameMessageNoWinBackground":
+{
+	"frame": {"x":1636,"y":817,"w":810,"h":380},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":810,"h":380},
+	"sourceSize": {"w":810,"h":380},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"portrait_timeOutMessageBackground":
+{
+	"frame": {"x":3,"y":1447,"w":800,"h":447},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":800,"h":447},
+	"sourceSize": {"w":800,"h":447},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"portrait_tutorialOverlay":
+{
+	"frame": {"x":774,"y":3,"w":810,"h":1354},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":810,"h":1354},
+	"sourceSize": {"w":810,"h":1354},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"winMessagePort":
+{
+	"frame": {"x":1588,"y":3,"w":810,"h":400},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":810,"h":400},
+	"sourceSize": {"w":810,"h":400},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "plaques-1.png",
+	"format": "RGBA8888",
+	"size": {"w":2019,"h":1897},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:08b0652603da5a1b306e4f6bfe7d846d:3e739bedfcbdda376c26136c6779c0f5:0136194d2339e82a5070d8e97ee180c7$"
+}
+}

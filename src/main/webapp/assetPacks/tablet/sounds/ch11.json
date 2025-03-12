@@ -1,0 +1,21 @@
+{
+  "urls": [
+    "ch11.ogg",
+    "ch11.m4a"
+  ],
+  "sprite": {
+    "silence": [
+      0,
+      1000,
+      true
+    ],
+    "MatchingSymbolSelect_4": [
+      1050,
+      1090.0680272108846
+    ],
+    "MultiplierLightMeter": [
+      3100.0000000000005,
+      2440.226757369614
+    ]
+  }
+}

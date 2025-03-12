@@ -1,0 +1,127 @@
+﻿{
+  "version":"",
+  "Paytable": {
+    "RTPvalue": "{@minRTP} %",
+    "RTPrange": "{@minRTP} % til {@maxRTP} %",
+    "paybackTitle": "Oppgitt premieandel",
+    "paybackBody": "For dette spillet er langsiktig, teoretisk oppgitt premieandel {RTP}.",
+    "overallChances": "Det er en samlet sjanse på 1 til {odds} for å vinne en premie på hvert spill.",
+    "prizeDivision": "Premiefordeling",
+    "prizeRemaining": "Omtrentlige gjenværende premier",
+    "oddsPerPlay": "Vinnersjanse",
+    "subheading": "Pris: {ticketCost}",
+    "prizeLevel": "Premienivå",
+    "description": "Beskrivelse",
+    "prizeValue": "Premieverdi",
+    "descriptionText1": "Matchende symbolpremie",
+    "descriptionText2": "Premie tilleggsspill"
+  },
+  "title": "Flytende gull",
+  "MenuCommand": {
+    "price": "Pris",
+    "stake": "Innsats",
+    "howToPlay": "Hjelp",
+    "paytable": "Premieoversikt",
+    "close": "Lukk",
+    "audio": {
+      "sound": "Lyd",
+      "on": "På",
+      "off": "Av"
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Feil: ",
+    "genericErrorText": "Det har oppstått en intern feil. AVSLUTT og start spillet på nytt."
+  },
+  "Game": {
+    "footer_balance": "SALDO",
+    "footer_ticketCost": "PRIS",
+    "ticketSelect_ticketCost": "PRIS",
+    "ticketCostPrefix": {
+      "BUY": "SPILL",
+      "TRY": "PRØVESPILL "
+    },
+    "footer_win": {
+      "BUY": "PREMIE",
+      "TRY": "PREMIE PRØVESPILL"
+    },
+
+    "button_buy": {
+      "BUY": "SPILL",
+      "TRY": "PRØVESPILL"
+    },
+    "button_try": "PRØVESPILL",
+    "button_continue": "FORTSETT",
+    "button_moveToMoney": "SPILL MED EKTE PENGER",
+    "button_autoPlay": "FULLFØR",
+    "button_autoPlayBonus" : "FULLFØR",
+    "button_start" : "START",
+    "button_stop": "STOPP",
+    "button_playAgain":{
+      "BUY": "SPILL IGJEN",
+      "TRY": "PRØVESPILL"
+    },
+    "button_tryAgain": "PRØVESPILL",
+    "button_retry": "SPILL IGJEN",
+    "button_ok": "OK",
+    "button_exit": "AVSLUTT",
+    
+    "error_button_exit": "AVSLUTT",
+    "error_title": "FEIL",
+    
+    "message_nonWin": "BEKLAGER,\nINGEN PREMIE",
+    "message_win": {
+      "BUY": "GRATULERER DU VANT!",
+      "TRY": "PREMIE PRØVESPILL"
+    },
+
+    "howToPlay": "",
+    "howToPlayTitle": "SLIK SPILLER DU",
+    "Bonus": "TILLEGGSSPILL",
+    "Multiplier": "MULTIPLIKATOR",
+    "page2Title": "TILLEGGSSPILL",
+    "page3Title": "MULTIPLIKATOR",
+    "page1": "Velg 6 av 9 \"?\"-fliser for å avdekke symboler. \n\nKoble sammen avdekkede symboler fra venstre til høyre på rutenettet for å vinne opptil 2 samsvarende premier. \n\nAvdekk lys for å fylle multiplikator- og tilleggsspill-målerne for å aktivere tilleggsspill. ",
+    "page1Port": "Velg 6 av 9 \"?\"-fliser for å avdekke symboler. \n\nKoble sammen avdekkede symboler fra venstre til høyre\n på rutenettet for å vinne opptil 2 samsvarende premier. \n\nAvdekk lys for å fylle multiplikator-\n og tilleggsspill-målerne for å aktivere tilleggsspill. ",
+
+    "page2": "Finn et lilla lys for å aktivere tilleggsspillet.\nVelg trykkmålere for å avdekke premier.\nOpptil 6 premier kan tildeles.\nAvdekk SAMLE INN for å avslutte spillet og vinne alle avdekkede premier.",
+    "page2Port": "Finn et lilla lys for å aktivere tilleggsspillet.\nVelg trykkmålere for å avdekke premier.\nOpptil 6 premier kan tildeles.\nAvdekk SAMLE INN for å avslutte spillet \nog vinne alle avdekkede premier.",
+
+    "page3": "Finn 3 grønne lys for å aktivere multiplikatoren.\n\nTrykk på START for å avdekke en multiplikator på 2x til 5x til å gjelde på totalpremien.",
+    "page3Port": "Finn 3 grønne lys for å aktivere multiplikatoren.\n\nTrykk på START for å avdekke en multiplikator på\n2x til 5x til å gjelde på totalpremien.",
+    
+    "winUpToText": "TOPPREMIE",
+    "winUpToValue": "{0}!",
+    "bonus": "TILLEGGSSPILL",
+    "bonusNoWin": "INGEN PREMIE TILLEGGSSPILL",
+    "bonusWin": "PREMIE TILLEGGSSPILL: {0}",
+
+    "winAll":"VINN ALLE",
+    "bonusLives":"FINN 3 FOR Å AVSLUTTE SPILLET",
+    "bonusInfo":"FINN 3 ELLER FLERE GULLSTJERNER FOR Å VINNE!",
+
+    "yourNumbers": "DINE TALL",
+    "luckyNumbers": "LYKKETALL",
+
+    "column01Header": "FINN",
+    "column02Header": "PREMIE",
+
+    "bonusInfo1":"Avdekker en PREMIE, VELG en annen TRYKKMÅLER",
+    "bonusInfo2":"SAMLE INN alle avdekkede premier",
+
+    "bonusValueDisplayDefault": "VELG trykkmålere for å avdekke premier",
+    "bonusValueCollected": "INNSAMLET",
+    "bonusValueCollect": "SAMLE INN",
+    "bonusValueSelect": "VELG",
+
+    "multiplierInfo1" : "Legger til en multiplikator på dine nåværende premier",
+    "multiplierInfo1Port" : "Legger til en multiplikator på dine nåværende premier",
+    "multiplierInfo2" : "2x–5x",
+
+    "multiplierPrizeLabel": "PREMIE",
+    "multiplierMultiplierLabel": "MULTIPLIKATOR",
+    "multiplierTotalWinLabel": "SAMLET PREMIE",
+
+    "prizeText": "{0}{img}"
+  }
+}

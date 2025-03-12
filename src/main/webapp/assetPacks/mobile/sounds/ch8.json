@@ -1,0 +1,25 @@
+{
+  "urls": [
+    "ch8.ogg",
+    "ch8.m4a"
+  ],
+  "sprite": {
+    "silence": [
+      0,
+      1000,
+      true
+    ],
+    "MatchingSymbolSelect_1": [
+      1050,
+      1190.5215419501135
+    ],
+    "MaxPrize": [
+      3100,
+      3538.91156462585
+    ],
+    "MultiplierLight_1": [
+      7150,
+      599.9999999999997
+    ]
+  }
+}

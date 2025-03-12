@@ -1,0 +1,1341 @@
+
+coverAnims.png
+size: 1284,66
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+payoutBackdrop_L
+  rotate: false
+  xy: 398, 8
+  size: 183, 56
+  orig: 183, 56
+  offset: 0, 0
+  index: -1
+payoutBackdrop_P
+  rotate: false
+  xy: 768, 8
+  size: 163, 56
+  orig: 163, 56
+  offset: 0, 0
+  index: -1
+payoutBackdrop_Winner_L
+  rotate: false
+  xy: 583, 8
+  size: 183, 56
+  orig: 183, 56
+  offset: 0, 0
+  index: -1
+payoutBackdrop_Winner_P
+  rotate: false
+  xy: 933, 8
+  size: 163, 56
+  orig: 163, 56
+  offset: 0, 0
+  index: -1
+targetSymbol
+  rotate: false
+  xy: 1098, 8
+  size: 62, 56
+  orig: 62, 56
+  offset: 0, 0
+  index: -1
+targetSymbol_2x_Top
+  rotate: true
+  xy: 2, 2
+  size: 62, 64
+  orig: 62, 64
+  offset: 0, 0
+  index: -1
+targetSymbol_2x_bottom
+  rotate: true
+  xy: 68, 2
+  size: 62, 64
+  orig: 62, 64
+  offset: 0, 0
+  index: -1
+targetSymbol_2x_match_Bottom
+  rotate: true
+  xy: 134, 2
+  size: 62, 64
+  orig: 62, 64
+  offset: 0, 0
+  index: -1
+targetSymbol_2x_match_Top
+  rotate: true
+  xy: 200, 2
+  size: 62, 64
+  orig: 62, 64
+  offset: 0, 0
+  index: -1
+targetSymbol_2x_win_Bottom
+  rotate: true
+  xy: 266, 2
+  size: 62, 64
+  orig: 62, 64
+  offset: 0, 0
+  index: -1
+targetSymbol_2x_win_Top
+  rotate: true
+  xy: 332, 2
+  size: 62, 64
+  orig: 62, 64
+  offset: 0, 0
+  index: -1
+targetSymbol_match
+  rotate: false
+  xy: 1162, 8
+  size: 62, 56
+  orig: 62, 56
+  offset: 0, 0
+  index: -1
+targetSymbol_win
+  rotate: true
+  xy: 1226, 2
+  size: 62, 56
+  orig: 62, 56
+  offset: 0, 0
+  index: -1
+
+coverAnims.jpg
+size: 225,302
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/matchSymbolGlow
+  rotate: false
+  xy: 136, 215
+  size: 81, 85
+  orig: 160, 160
+  offset: 40, 38
+  index: -1
+FX/matchSymbolGlow_2x
+  rotate: false
+  xy: 2, 8
+  size: 80, 158
+  orig: 160, 160
+  offset: 41, 0
+  index: -1
+FX/payoutBackdrop_glowTop
+  rotate: true
+  xy: 84, 2
+  size: 164, 70
+  orig: 240, 240
+  offset: 39, 86
+  index: -1
+FX/winLightFlare
+  rotate: false
+  xy: 2, 168
+  size: 132, 132
+  orig: 160, 160
+  offset: 14, 14
+  index: -1
+FX/winSymbol_glowTop
+  rotate: false
+  xy: 156, 14
+  size: 66, 64
+  orig: 160, 160
+  offset: 47, 48
+  index: -1
+FX/winSymbol_glowTop_2x
+  rotate: false
+  xy: 156, 80
+  size: 67, 133
+  orig: 320, 320
+  offset: 127, 93
+  index: -1
+
+coverAnims2.jpg
+size: 496,543
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/payoutBackdrop_BGflare/payoutBackdrop_bgFlare_0001
+  rotate: true
+  xy: 433, 344
+  size: 197, 59
+  orig: 240, 240
+  offset: 26, 90
+  index: -1
+FX/payoutBackdrop_BGflare/payoutBackdrop_bgFlare_0002
+  rotate: true
+  xy: 365, 109
+  size: 210, 63
+  orig: 240, 240
+  offset: 21, 88
+  index: -1
+FX/payoutBackdrop_BGflare/payoutBackdrop_bgFlare_0003
+  rotate: true
+  xy: 365, 321
+  size: 220, 66
+  orig: 240, 240
+  offset: 17, 86
+  index: -1
+FX/payoutBackdrop_BGflare/payoutBackdrop_bgFlare_0004
+  rotate: true
+  xy: 296, 89
+  size: 223, 67
+  orig: 240, 240
+  offset: 17, 85
+  index: -1
+FX/payoutBackdrop_BGflare/payoutBackdrop_bgFlare_0005
+  rotate: false
+  xy: 234, 9
+  size: 227, 69
+  orig: 240, 240
+  offset: 13, 84
+  index: -1
+FX/payoutBackdrop_BGflare/payoutBackdrop_bgFlare_0006
+  rotate: true
+  xy: 224, 314
+  size: 227, 71
+  orig: 240, 240
+  offset: 13, 83
+  index: -1
+FX/payoutBackdrop_BGflare/payoutBackdrop_bgFlare_0007
+  rotate: true
+  xy: 223, 80
+  size: 229, 71
+  orig: 240, 240
+  offset: 11, 83
+  index: -1
+FX/payoutBackdrop_BGflare/payoutBackdrop_bgFlare_0008
+  rotate: true
+  xy: 2, 76
+  size: 230, 72
+  orig: 240, 240
+  offset: 10, 83
+  index: -1
+FX/payoutBackdrop_BGflare/payoutBackdrop_bgFlare_0009
+  rotate: false
+  xy: 2, 2
+  size: 230, 72
+  orig: 240, 240
+  offset: 10, 83
+  index: -1
+FX/payoutBackdrop_BGflare/payoutBackdrop_bgFlare_0010
+  rotate: true
+  xy: 2, 308
+  size: 233, 72
+  orig: 240, 240
+  offset: 7, 83
+  index: -1
+FX/payoutBackdrop_BGflare/payoutBackdrop_bgFlare_0011
+  rotate: true
+  xy: 76, 311
+  size: 230, 72
+  orig: 240, 240
+  offset: 10, 82
+  index: -1
+FX/payoutBackdrop_BGflare/payoutBackdrop_bgFlare_0012
+  rotate: true
+  xy: 76, 79
+  size: 230, 72
+  orig: 240, 240
+  offset: 10, 82
+  index: -1
+FX/payoutBackdrop_BGflare/payoutBackdrop_bgFlare_0013
+  rotate: true
+  xy: 150, 311
+  size: 230, 72
+  orig: 240, 240
+  offset: 10, 82
+  index: -1
+FX/payoutBackdrop_BGflare/payoutBackdrop_bgFlare_0014
+  rotate: true
+  xy: 150, 79
+  size: 230, 71
+  orig: 240, 240
+  offset: 10, 83
+  index: -1
+FX/payoutBackdrop_BGflare/payoutBackdrop_bgFlare_0015
+  rotate: true
+  xy: 297, 320
+  size: 221, 66
+  orig: 240, 240
+  offset: 16, 86
+  index: -1
+FX/payoutBackdrop_BGflare/payoutBackdrop_bgFlare_0016
+  rotate: true
+  xy: 430, 110
+  size: 209, 64
+  orig: 240, 240
+  offset: 22, 87
+  index: -1
+
+coverAnims3.jpg
+size: 989,1066
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/winBGflare/winBGflare_0001
+  rotate: true
+  xy: 182, 171
+  size: 92, 87
+  orig: 160, 160
+  offset: 34, 34
+  index: -1
+FX/winBGflare/winBGflare_0002
+  rotate: false
+  xy: 789, 51
+  size: 107, 103
+  orig: 160, 160
+  offset: 27, 25
+  index: -1
+FX/winBGflare/winBGflare_0003
+  rotate: true
+  xy: 556, 32
+  size: 122, 120
+  orig: 160, 160
+  offset: 20, 17
+  index: -1
+FX/winBGflare/winBGflare_0004
+  rotate: false
+  xy: 318, 211
+  size: 128, 123
+  orig: 160, 160
+  offset: 17, 17
+  index: -1
+FX/winBGflare/winBGflare_0005
+  rotate: false
+  xy: 680, 586
+  size: 142, 136
+  orig: 160, 160
+  offset: 9, 9
+  index: -1
+FX/winBGflare/winBGflare_0006
+  rotate: true
+  xy: 318, 336
+  size: 156, 143
+  orig: 160, 160
+  offset: 2, 7
+  index: -1
+FX/winBGflare/winBGflare_0007
+  rotate: true
+  xy: 787, 309
+  size: 156, 142
+  orig: 160, 160
+  offset: 2, 8
+  index: -1
+FX/winBGflare/winBGflare_0008
+  rotate: false
+  xy: 448, 156
+  size: 158, 158
+  orig: 160, 160
+  offset: 2, 0
+  index: -1
+FX/winBGflare/winBGflare_0009
+  rotate: false
+  xy: 608, 162
+  size: 158, 151
+  orig: 160, 160
+  offset: 2, 0
+  index: -1
+FX/winBGflare/winBGflare_0010
+  rotate: false
+  xy: 824, 637
+  size: 160, 157
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+FX/winBGflare/winBGflare_0011
+  rotate: false
+  xy: 463, 316
+  size: 160, 157
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+FX/winBGflare/winBGflare_0012
+  rotate: false
+  xy: 768, 156
+  size: 158, 151
+  orig: 160, 160
+  offset: 2, 0
+  index: -1
+FX/winBGflare/winBGflare_0013
+  rotate: false
+  xy: 625, 315
+  size: 160, 150
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+FX/winBGflare/winBGflare_0014
+  rotate: false
+  xy: 271, 61
+  size: 154, 148
+  orig: 160, 160
+  offset: 2, 2
+  index: -1
+FX/winBGflare/winBGflare_0015
+  rotate: false
+  xy: 427, 28
+  size: 127, 126
+  orig: 160, 160
+  offset: 15, 14
+  index: -1
+FX/winBGflare/winBGflare_0016
+  rotate: false
+  xy: 678, 49
+  size: 109, 105
+  orig: 160, 160
+  offset: 25, 25
+  index: -1
+FX/winBGflare/winBGflare_2x_0001
+  rotate: false
+  xy: 853, 473
+  size: 99, 162
+  orig: 320, 320
+  offset: 111, 78
+  index: -1
+FX/winBGflare/winBGflare_2x_0002
+  rotate: true
+  xy: 463, 475
+  size: 115, 193
+  orig: 320, 320
+  offset: 103, 60
+  index: -1
+FX/winBGflare/winBGflare_2x_0003
+  rotate: true
+  xy: 463, 592
+  size: 130, 215
+  orig: 320, 320
+  offset: 96, 49
+  index: -1
+FX/winBGflare/winBGflare_2x_0004
+  rotate: false
+  xy: 182, 265
+  size: 134, 227
+  orig: 320, 320
+  offset: 93, 43
+  index: -1
+FX/winBGflare/winBGflare_2x_0005
+  rotate: false
+  xy: 175, 494
+  size: 150, 255
+  orig: 320, 320
+  offset: 85, 30
+  index: -1
+FX/winBGflare/winBGflare_2x_0006
+  rotate: true
+  xy: 539, 724
+  size: 164, 277
+  orig: 320, 320
+  offset: 78, 19
+  index: -1
+FX/winBGflare/winBGflare_2x_0007
+  rotate: true
+  xy: 2, 2
+  size: 164, 267
+  orig: 320, 320
+  offset: 78, 19
+  index: -1
+FX/winBGflare/winBGflare_2x_0008
+  rotate: false
+  xy: 2, 751
+  size: 173, 313
+  orig: 320, 320
+  offset: 72, 0
+  index: -1
+FX/winBGflare/winBGflare_2x_0009
+  rotate: false
+  xy: 2, 451
+  size: 171, 298
+  orig: 320, 320
+  offset: 78, 15
+  index: -1
+FX/winBGflare/winBGflare_2x_0010
+  rotate: false
+  xy: 358, 780
+  size: 179, 284
+  orig: 320, 320
+  offset: 71, 16
+  index: -1
+FX/winBGflare/winBGflare_2x_0011
+  rotate: false
+  xy: 2, 168
+  size: 178, 281
+  orig: 320, 320
+  offset: 72, 15
+  index: -1
+FX/winBGflare/winBGflare_2x_0012
+  rotate: true
+  xy: 539, 890
+  size: 174, 286
+  orig: 320, 320
+  offset: 76, 16
+  index: -1
+FX/winBGflare/winBGflare_2x_0013
+  rotate: false
+  xy: 177, 769
+  size: 179, 295
+  orig: 320, 320
+  offset: 69, 6
+  index: -1
+FX/winBGflare/winBGflare_2x_0014
+  rotate: false
+  xy: 827, 796
+  size: 160, 268
+  orig: 320, 320
+  offset: 79, 19
+  index: -1
+FX/winBGflare/winBGflare_2x_0015
+  rotate: false
+  xy: 327, 542
+  size: 134, 225
+  orig: 320, 320
+  offset: 92, 46
+  index: -1
+FX/winBGflare/winBGflare_2x_0016
+  rotate: true
+  xy: 658, 467
+  size: 117, 193
+  orig: 320, 320
+  offset: 101, 60
+  index: -1
+
+coverAnims4.jpg
+size: 1485,222
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/winSmokePuff/winSmokePuff_0001
+  rotate: false
+  xy: 1415, 73
+  size: 63, 60
+  orig: 160, 160
+  offset: 50, 49
+  index: -1
+FX/winSmokePuff/winSmokePuff_0002
+  rotate: true
+  xy: 1409, 135
+  size: 85, 74
+  orig: 160, 160
+  offset: 39, 42
+  index: -1
+FX/winSmokePuff/winSmokePuff_0003
+  rotate: true
+  xy: 1318, 119
+  size: 101, 89
+  orig: 160, 160
+  offset: 31, 36
+  index: -1
+FX/winSmokePuff/winSmokePuff_0004
+  rotate: true
+  xy: 1210, 2
+  size: 108, 102
+  orig: 160, 160
+  offset: 26, 30
+  index: -1
+FX/winSmokePuff/winSmokePuff_0005
+  rotate: true
+  xy: 992, 2
+  size: 108, 107
+  orig: 160, 160
+  offset: 26, 27
+  index: -1
+FX/winSmokePuff/winSmokePuff_0006
+  rotate: false
+  xy: 2, 112
+  size: 108, 108
+  orig: 160, 160
+  offset: 26, 26
+  index: -1
+FX/winSmokePuff/winSmokePuff_0007
+  rotate: false
+  xy: 2, 2
+  size: 108, 108
+  orig: 160, 160
+  offset: 26, 26
+  index: -1
+FX/winSmokePuff/winSmokePuff_0008
+  rotate: false
+  xy: 1101, 2
+  size: 107, 108
+  orig: 160, 160
+  offset: 27, 26
+  index: -1
+FX/winSmokePuff/winSmokePuff_0009
+  rotate: false
+  xy: 112, 112
+  size: 108, 108
+  orig: 160, 160
+  offset: 26, 26
+  index: -1
+FX/winSmokePuff/winSmokePuff_0010
+  rotate: false
+  xy: 112, 2
+  size: 108, 108
+  orig: 160, 160
+  offset: 26, 26
+  index: -1
+FX/winSmokePuff/winSmokePuff_0011
+  rotate: false
+  xy: 222, 112
+  size: 108, 108
+  orig: 160, 160
+  offset: 26, 26
+  index: -1
+FX/winSmokePuff/winSmokePuff_0012
+  rotate: false
+  xy: 222, 2
+  size: 108, 108
+  orig: 160, 160
+  offset: 26, 26
+  index: -1
+FX/winSmokePuff/winSmokePuff_0013
+  rotate: false
+  xy: 332, 112
+  size: 108, 108
+  orig: 160, 160
+  offset: 26, 26
+  index: -1
+FX/winSmokePuff/winSmokePuff_0014
+  rotate: false
+  xy: 332, 2
+  size: 108, 108
+  orig: 160, 160
+  offset: 26, 26
+  index: -1
+FX/winSmokePuff/winSmokePuff_0015
+  rotate: false
+  xy: 442, 112
+  size: 108, 108
+  orig: 160, 160
+  offset: 26, 26
+  index: -1
+FX/winSmokePuff/winSmokePuff_0016
+  rotate: false
+  xy: 442, 2
+  size: 108, 108
+  orig: 160, 160
+  offset: 26, 26
+  index: -1
+FX/winSmokePuff/winSmokePuff_0017
+  rotate: false
+  xy: 552, 112
+  size: 108, 108
+  orig: 160, 160
+  offset: 26, 26
+  index: -1
+FX/winSmokePuff/winSmokePuff_0018
+  rotate: false
+  xy: 552, 2
+  size: 108, 108
+  orig: 160, 160
+  offset: 26, 26
+  index: -1
+FX/winSmokePuff/winSmokePuff_0019
+  rotate: false
+  xy: 662, 112
+  size: 108, 108
+  orig: 160, 160
+  offset: 26, 26
+  index: -1
+FX/winSmokePuff/winSmokePuff_0020
+  rotate: false
+  xy: 662, 2
+  size: 108, 108
+  orig: 160, 160
+  offset: 26, 26
+  index: -1
+FX/winSmokePuff/winSmokePuff_0021
+  rotate: false
+  xy: 772, 112
+  size: 108, 108
+  orig: 160, 160
+  offset: 26, 26
+  index: -1
+FX/winSmokePuff/winSmokePuff_0022
+  rotate: false
+  xy: 772, 2
+  size: 108, 108
+  orig: 160, 160
+  offset: 26, 26
+  index: -1
+FX/winSmokePuff/winSmokePuff_0023
+  rotate: false
+  xy: 882, 112
+  size: 108, 108
+  orig: 160, 160
+  offset: 26, 26
+  index: -1
+FX/winSmokePuff/winSmokePuff_0024
+  rotate: false
+  xy: 882, 2
+  size: 108, 108
+  orig: 160, 160
+  offset: 26, 26
+  index: -1
+FX/winSmokePuff/winSmokePuff_0025
+  rotate: false
+  xy: 992, 112
+  size: 108, 108
+  orig: 160, 160
+  offset: 26, 26
+  index: -1
+FX/winSmokePuff/winSmokePuff_0026
+  rotate: true
+  xy: 1102, 112
+  size: 108, 106
+  orig: 160, 160
+  offset: 26, 27
+  index: -1
+FX/winSmokePuff/winSmokePuff_0027
+  rotate: true
+  xy: 1210, 112
+  size: 108, 106
+  orig: 160, 160
+  offset: 26, 27
+  index: -1
+FX/winSmokePuff/winSmokePuff_0028
+  rotate: true
+  xy: 1314, 4
+  size: 106, 99
+  orig: 160, 160
+  offset: 27, 32
+  index: -1
+
+coverAnims5.jpg
+size: 1052,266
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/winSparks/winSparks_0005
+  rotate: true
+  xy: 119, 2
+  size: 2, 7
+  orig: 160, 160
+  offset: 103, 67
+  index: -1
+FX/winSparks/winSparks_0006
+  rotate: true
+  xy: 365, 5
+  size: 19, 16
+  orig: 160, 160
+  offset: 92, 56
+  index: -1
+FX/winSparks/winSparks_0007
+  rotate: true
+  xy: 343, 2
+  size: 22, 20
+  orig: 160, 160
+  offset: 95, 57
+  index: -1
+FX/winSparks/winSparks_0008
+  rotate: false
+  xy: 863, 3
+  size: 70, 52
+  orig: 160, 160
+  offset: 53, 50
+  index: -1
+FX/winSparks/winSparks_0009
+  rotate: false
+  xy: 958, 16
+  size: 82, 63
+  orig: 160, 160
+  offset: 47, 41
+  index: -1
+FX/winSparks/winSparks_0010
+  rotate: false
+  xy: 958, 81
+  size: 92, 92
+  orig: 160, 160
+  offset: 43, 29
+  index: -1
+FX/winSparks/winSparks_0011
+  rotate: true
+  xy: 824, 165
+  size: 99, 100
+  orig: 160, 160
+  offset: 41, 17
+  index: -1
+FX/winSparks/winSparks_0012
+  rotate: false
+  xy: 926, 175
+  size: 110, 89
+  orig: 160, 160
+  offset: 35, 27
+  index: -1
+FX/winSparks/winSparks_0013
+  rotate: false
+  xy: 595, 165
+  size: 118, 99
+  orig: 160, 160
+  offset: 29, 20
+  index: -1
+FX/winSparks/winSparks_0014
+  rotate: false
+  xy: 715, 165
+  size: 107, 99
+  orig: 160, 160
+  offset: 23, 22
+  index: -1
+FX/winSparks/winSparks_0015
+  rotate: true
+  xy: 670, 46
+  size: 117, 99
+  orig: 160, 160
+  offset: 18, 26
+  index: -1
+FX/winSparks/winSparks_0016
+  rotate: false
+  xy: 474, 157
+  size: 119, 107
+  orig: 160, 160
+  offset: 22, 22
+  index: -1
+FX/winSparks/winSparks_0017
+  rotate: true
+  xy: 2, 2
+  size: 127, 115
+  orig: 160, 160
+  offset: 18, 18
+  index: -1
+FX/winSparks/winSparks_0018
+  rotate: true
+  xy: 119, 6
+  size: 123, 118
+  orig: 160, 160
+  offset: 17, 18
+  index: -1
+FX/winSparks/winSparks_0019
+  rotate: true
+  xy: 2, 131
+  size: 133, 121
+  orig: 160, 160
+  offset: 13, 17
+  index: -1
+FX/winSparks/winSparks_0020
+  rotate: false
+  xy: 453, 27
+  size: 108, 120
+  orig: 160, 160
+  offset: 40, 19
+  index: -1
+FX/winSparks/winSparks_0021
+  rotate: false
+  xy: 359, 149
+  size: 113, 115
+  orig: 160, 160
+  offset: 36, 24
+  index: -1
+FX/winSparks/winSparks_0022
+  rotate: false
+  xy: 125, 144
+  size: 116, 120
+  orig: 160, 160
+  offset: 32, 17
+  index: -1
+FX/winSparks/winSparks_0023
+  rotate: true
+  xy: 343, 26
+  size: 121, 108
+  orig: 160, 160
+  offset: 26, 35
+  index: -1
+FX/winSparks/winSparks_0024
+  rotate: true
+  xy: 563, 35
+  size: 120, 105
+  orig: 160, 160
+  offset: 20, 27
+  index: -1
+FX/winSparks/winSparks_0025
+  rotate: true
+  xy: 239, 8
+  size: 134, 102
+  orig: 160, 160
+  offset: 15, 25
+  index: -1
+FX/winSparks/winSparks_0026
+  rotate: false
+  xy: 243, 149
+  size: 114, 115
+  orig: 160, 160
+  offset: 32, 24
+  index: -1
+FX/winSparks/winSparks_0027
+  rotate: true
+  xy: 771, 52
+  size: 111, 90
+  orig: 160, 160
+  offset: 32, 44
+  index: -1
+FX/winSparks/winSparks_0028
+  rotate: true
+  xy: 863, 57
+  size: 106, 93
+  orig: 160, 160
+  offset: 34, 34
+  index: -1
+
+coverAnims6.jpg
+size: 475,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/winSymbol_finalSparks/winSymbol_finalSparks_0000
+  rotate: false
+  xy: 441, 7
+  size: 32, 50
+  orig: 160, 160
+  offset: 80, 71
+  index: -1
+FX/winSymbol_finalSparks/winSymbol_finalSparks_0001
+  rotate: true
+  xy: 245, 2
+  size: 33, 51
+  orig: 160, 160
+  offset: 79, 72
+  index: -1
+FX/winSymbol_finalSparks/winSymbol_finalSparks_0002
+  rotate: false
+  xy: 404, 5
+  size: 35, 52
+  orig: 160, 160
+  offset: 78, 73
+  index: -1
+FX/winSymbol_finalSparks/winSymbol_finalSparks_0003
+  rotate: true
+  xy: 298, 3
+  size: 39, 52
+  orig: 160, 160
+  offset: 75, 74
+  index: -1
+FX/winSymbol_finalSparks/winSymbol_finalSparks_0004
+  rotate: false
+  xy: 432, 121
+  size: 38, 51
+  orig: 160, 160
+  offset: 77, 76
+  index: -1
+FX/winSymbol_finalSparks/winSymbol_finalSparks_0005
+  rotate: true
+  xy: 352, 2
+  size: 45, 50
+  orig: 160, 160
+  offset: 72, 77
+  index: -1
+FX/winSymbol_finalSparks/winSymbol_finalSparks_0006
+  rotate: true
+  xy: 416, 174
+  size: 46, 50
+  orig: 160, 160
+  offset: 72, 78
+  index: -1
+FX/winSymbol_finalSparks/winSymbol_finalSparks_0007
+  rotate: true
+  xy: 400, 59
+  size: 48, 45
+  orig: 160, 160
+  offset: 70, 84
+  index: -1
+FX/winSymbol_finalSparks/winSymbol_finalSparks_0008
+  rotate: true
+  xy: 383, 109
+  size: 51, 47
+  orig: 160, 160
+  offset: 68, 85
+  index: -1
+FX/winSymbol_finalSparks/winSymbol_finalSparks_0009
+  rotate: true
+  xy: 349, 49
+  size: 52, 49
+  orig: 160, 160
+  offset: 68, 87
+  index: -1
+FX/winSymbol_finalSparks/winSymbol_finalSparks_0010
+  rotate: true
+  xy: 288, 212
+  size: 55, 51
+  orig: 160, 160
+  offset: 65, 88
+  index: -1
+FX/winSymbol_finalSparks/winSymbol_finalSparks_0011
+  rotate: true
+  xy: 128, 207
+  size: 60, 55
+  orig: 160, 160
+  offset: 61, 88
+  index: -1
+FX/winSymbol_finalSparks/winSymbol_finalSparks_0012
+  rotate: false
+  xy: 125, 2
+  size: 63, 58
+  orig: 160, 160
+  offset: 58, 88
+  index: -1
+FX/winSymbol_finalSparks/winSymbol_finalSparks_0013
+  rotate: true
+  xy: 334, 103
+  size: 55, 47
+  orig: 160, 160
+  offset: 55, 88
+  index: -1
+FX/winSymbol_finalSparks/winSymbol_finalSparks_0014
+  rotate: false
+  xy: 251, 158
+  size: 58, 47
+  orig: 160, 160
+  offset: 52, 88
+  index: -1
+FX/winSymbol_finalSparks/winSymbol_finalSparks_0015
+  rotate: true
+  xy: 234, 95
+  size: 61, 48
+  orig: 160, 160
+  offset: 50, 88
+  index: -1
+FX/winSymbol_finalSparks/winSymbol_finalSparks_0016
+  rotate: true
+  xy: 184, 77
+  size: 64, 48
+  orig: 160, 160
+  offset: 48, 87
+  index: -1
+FX/winSymbol_finalSparks/winSymbol_finalSparks_0017
+  rotate: false
+  xy: 185, 158
+  size: 64, 46
+  orig: 160, 160
+  offset: 48, 87
+  index: -1
+FX/winSymbol_finalSparks/winSymbol_finalSparks_0018
+  rotate: true
+  xy: 284, 99
+  size: 57, 48
+  orig: 160, 160
+  offset: 55, 87
+  index: -1
+FX/winSymbol_finalSparks/winSymbol_finalSparks_0019
+  rotate: false
+  xy: 399, 222
+  size: 55, 45
+  orig: 160, 160
+  offset: 52, 93
+  index: -1
+FX/winSymbol_finalSparks/winSymbol_finalSparks_0020
+  rotate: true
+  xy: 367, 162
+  size: 55, 47
+  orig: 160, 160
+  offset: 50, 93
+  index: -1
+FX/winSymbol_finalSparks/winSymbol_finalSparks_0021
+  rotate: true
+  xy: 245, 37
+  size: 56, 50
+  orig: 160, 160
+  offset: 49, 93
+  index: -1
+FX/winSymbol_finalSparks/winSymbol_finalSparks_0022
+  rotate: true
+  xy: 190, 17
+  size: 58, 53
+  orig: 160, 160
+  offset: 48, 93
+  index: -1
+FX/winSymbol_finalSparks/winSymbol_finalSparks_0023
+  rotate: true
+  xy: 127, 81
+  size: 60, 55
+  orig: 160, 160
+  offset: 47, 93
+  index: -1
+FX/winSymbol_finalSparks/winSymbol_finalSparks_0024
+  rotate: true
+  xy: 125, 143
+  size: 60, 58
+  orig: 160, 160
+  offset: 48, 93
+  index: -1
+FX/winSymbol_finalSparks/winSymbol_finalSparks_0025
+  rotate: true
+  xy: 2, 2
+  size: 54, 59
+  orig: 160, 160
+  offset: 54, 94
+  index: -1
+FX/winSymbol_finalSparks/winSymbol_finalSparks_0026
+  rotate: false
+  xy: 69, 205
+  size: 57, 62
+  orig: 160, 160
+  offset: 52, 94
+  index: -1
+FX/winSymbol_finalSparks/winSymbol_finalSparks_0027
+  rotate: false
+  xy: 66, 62
+  size: 59, 63
+  orig: 160, 160
+  offset: 50, 95
+  index: -1
+FX/winSymbol_finalSparks/winSymbol_finalSparks_0028
+  rotate: false
+  xy: 2, 58
+  size: 62, 67
+  orig: 160, 160
+  offset: 48, 93
+  index: -1
+FX/winSymbol_finalSparks/winSymbol_finalSparks_0029
+  rotate: false
+  xy: 2, 127
+  size: 64, 68
+  orig: 160, 160
+  offset: 47, 92
+  index: -1
+FX/winSymbol_finalSparks/winSymbol_finalSparks_0030
+  rotate: false
+  xy: 2, 197
+  size: 65, 70
+  orig: 160, 160
+  offset: 46, 90
+  index: -1
+FX/winSymbol_finalSparks/winSymbol_finalSparks_0031
+  rotate: true
+  xy: 68, 130
+  size: 65, 55
+  orig: 160, 160
+  offset: 46, 89
+  index: -1
+FX/winSymbol_finalSparks/winSymbol_finalSparks_0032
+  rotate: true
+  xy: 237, 207
+  size: 60, 49
+  orig: 160, 160
+  offset: 46, 89
+  index: -1
+FX/winSymbol_finalSparks/winSymbol_finalSparks_0033
+  rotate: true
+  xy: 185, 206
+  size: 61, 50
+  orig: 160, 160
+  offset: 46, 89
+  index: -1
+FX/winSymbol_finalSparks/winSymbol_finalSparks_0034
+  rotate: false
+  xy: 63, 4
+  size: 60, 52
+  orig: 160, 160
+  offset: 46, 89
+  index: -1
+FX/winSymbol_finalSparks/winSymbol_finalSparks_0035
+  rotate: false
+  xy: 341, 219
+  size: 56, 48
+  orig: 160, 160
+  offset: 48, 89
+  index: -1
+FX/winSymbol_finalSparks/winSymbol_finalSparks_0036
+  rotate: true
+  xy: 297, 44
+  size: 53, 50
+  orig: 160, 160
+  offset: 51, 89
+  index: -1
+FX/winSymbol_finalSparks/winSymbol_finalSparks_0037
+  rotate: false
+  xy: 311, 160
+  size: 54, 50
+  orig: 160, 160
+  offset: 50, 90
+  index: -1
+FX/winSymbol_finalSparks/winSymbol_finalSparks_0038
+  rotate: false
+  xy: 66, 59
+  size: 1, 1
+  orig: 160, 160
+  offset: 51, 94
+  index: -1
+FX/winSymbol_finalSparks/winSymbol_finalSparks_0039
+  rotate: false
+  xy: 447, 91
+  size: 25, 28
+  orig: 160, 160
+  offset: 50, 95
+  index: -1
+
+coverAnims2.png
+size: 154,212
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tile3DTurn_2x_bottom/tile3DTurn_2x_bottom_0000
+  rotate: false
+  xy: 2, 196
+  size: 80, 14
+  orig: 80, 80
+  offset: 0, 33
+  index: -1
+tile3DTurn_2x_bottom/tile3DTurn_2x_bottom_0001
+  rotate: false
+  xy: 2, 167
+  size: 80, 27
+  orig: 80, 80
+  offset: 0, 31
+  index: -1
+tile3DTurn_2x_bottom/tile3DTurn_2x_bottom_0002
+  rotate: false
+  xy: 2, 124
+  size: 80, 41
+  orig: 80, 80
+  offset: 0, 26
+  index: -1
+tile3DTurn_2x_bottom/tile3DTurn_2x_bottom_0003
+  rotate: false
+  xy: 2, 71
+  size: 80, 51
+  orig: 80, 80
+  offset: 0, 22
+  index: -1
+tile3DTurn_2x_bottom/tile3DTurn_2x_bottom_0004
+  rotate: false
+  xy: 2, 10
+  size: 78, 59
+  orig: 80, 80
+  offset: 1, 18
+  index: -1
+tile3DTurn_2x_bottom/tile3DTurn_2x_bottom_0005
+  rotate: true
+  xy: 84, 2
+  size: 74, 64
+  orig: 80, 80
+  offset: 3, 14
+  index: -1
+tile3DTurn_2x_bottom/tile3DTurn_2x_bottom_0006
+  rotate: false
+  xy: 84, 78
+  size: 68, 66
+  orig: 80, 80
+  offset: 6, 12
+  index: -1
+tile3DTurn_2x_bottom/tile3DTurn_2x_bottom_0007
+  rotate: true
+  xy: 84, 146
+  size: 64, 66
+  orig: 80, 80
+  offset: 8, 11
+  index: -1
+
+coverAnims3.png
+size: 154,197
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tile3DTurn_2x_top/tile3DTurn_2x_top_0000
+  rotate: false
+  xy: 2, 183
+  size: 80, 12
+  orig: 80, 80
+  offset: 0, 34
+  index: -1
+tile3DTurn_2x_top/tile3DTurn_2x_top_0001
+  rotate: false
+  xy: 2, 157
+  size: 80, 24
+  orig: 80, 80
+  offset: 0, 30
+  index: -1
+tile3DTurn_2x_top/tile3DTurn_2x_top_0002
+  rotate: false
+  xy: 2, 118
+  size: 80, 37
+  orig: 80, 80
+  offset: 0, 24
+  index: -1
+tile3DTurn_2x_top/tile3DTurn_2x_top_0003
+  rotate: false
+  xy: 2, 69
+  size: 78, 47
+  orig: 80, 80
+  offset: 1, 19
+  index: -1
+tile3DTurn_2x_top/tile3DTurn_2x_top_0004
+  rotate: false
+  xy: 2, 12
+  size: 74, 55
+  orig: 80, 80
+  offset: 3, 14
+  index: -1
+tile3DTurn_2x_top/tile3DTurn_2x_top_0005
+  rotate: false
+  xy: 78, 2
+  size: 72, 61
+  orig: 80, 80
+  offset: 4, 9
+  index: -1
+tile3DTurn_2x_top/tile3DTurn_2x_top_0006
+  rotate: false
+  xy: 84, 131
+  size: 68, 64
+  orig: 80, 80
+  offset: 6, 6
+  index: -1
+tile3DTurn_2x_top/tile3DTurn_2x_top_0007
+  rotate: true
+  xy: 84, 65
+  size: 64, 67
+  orig: 80, 80
+  offset: 8, 3
+  index: -1
+
+coverAnims4.png
+size: 84,349
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tileTurn3D/tileTurn3D_0000
+  rotate: false
+  xy: 2, 335
+  size: 80, 12
+  orig: 80, 80
+  offset: 0, 34
+  index: -1
+tileTurn3D/tileTurn3D_0001
+  rotate: false
+  xy: 2, 310
+  size: 80, 23
+  orig: 80, 80
+  offset: 0, 31
+  index: -1
+tileTurn3D/tileTurn3D_0002
+  rotate: false
+  xy: 2, 274
+  size: 80, 34
+  orig: 80, 80
+  offset: 0, 26
+  index: -1
+tileTurn3D/tileTurn3D_0003
+  rotate: false
+  xy: 2, 229
+  size: 78, 43
+  orig: 80, 80
+  offset: 1, 22
+  index: -1
+tileTurn3D/tileTurn3D_0004
+  rotate: false
+  xy: 2, 177
+  size: 74, 50
+  orig: 80, 80
+  offset: 3, 18
+  index: -1
+tileTurn3D/tileTurn3D_0005
+  rotate: false
+  xy: 2, 121
+  size: 71, 54
+  orig: 80, 80
+  offset: 5, 15
+  index: -1
+tileTurn3D/tileTurn3D_0006
+  rotate: false
+  xy: 2, 62
+  size: 68, 57
+  orig: 80, 80
+  offset: 6, 12
+  index: -1
+tileTurn3D/tileTurn3D_0007
+  rotate: false
+  xy: 2, 2
+  size: 64, 58
+  orig: 80, 80
+  offset: 8, 11
+  index: -1

@@ -1,0 +1,389 @@
+
+goldFlow.jpg
+size: 44,52
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/goldFlowGlow
+  rotate: false
+  xy: 2, 2
+  size: 40, 48
+  orig: 160, 160
+  offset: 60, 57
+  index: -1
+
+goldFlow2.jpg
+size: 237,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/goldFlowSparks/goldFlowSparks_0000
+  rotate: false
+  xy: 146, 2
+  size: 18, 27
+  orig: 160, 160
+  offset: 64, 67
+  index: -1
+FX/goldFlowSparks/goldFlowSparks_0001
+  rotate: false
+  xy: 123, 2
+  size: 21, 27
+  orig: 160, 160
+  offset: 63, 68
+  index: -1
+FX/goldFlowSparks/goldFlowSparks_0002
+  rotate: true
+  xy: 61, 30
+  size: 20, 25
+  orig: 160, 160
+  offset: 63, 70
+  index: -1
+FX/goldFlowSparks/goldFlowSparks_0003
+  rotate: true
+  xy: 207, 33
+  size: 21, 24
+  orig: 160, 160
+  offset: 62, 71
+  index: -1
+FX/goldFlowSparks/goldFlowSparks_0004
+  rotate: false
+  xy: 191, 6
+  size: 21, 23
+  orig: 160, 160
+  offset: 62, 72
+  index: -1
+FX/goldFlowSparks/goldFlowSparks_0005
+  rotate: true
+  xy: 214, 9
+  size: 22, 21
+  orig: 160, 160
+  offset: 61, 75
+  index: -1
+FX/goldFlowSparks/goldFlowSparks_0006
+  rotate: false
+  xy: 181, 31
+  size: 24, 23
+  orig: 160, 160
+  offset: 61, 75
+  index: -1
+FX/goldFlowSparks/goldFlowSparks_0007
+  rotate: true
+  xy: 154, 31
+  size: 26, 25
+  orig: 160, 160
+  offset: 61, 75
+  index: -1
+FX/goldFlowSparks/goldFlowSparks_0008
+  rotate: false
+  xy: 2, 2
+  size: 29, 26
+  orig: 160, 160
+  offset: 60, 76
+  index: -1
+FX/goldFlowSparks/goldFlowSparks_0009
+  rotate: false
+  xy: 104, 61
+  size: 31, 23
+  orig: 160, 160
+  offset: 60, 76
+  index: -1
+FX/goldFlowSparks/goldFlowSparks_0010
+  rotate: true
+  xy: 34, 30
+  size: 33, 25
+  orig: 160, 160
+  offset: 60, 75
+  index: -1
+FX/goldFlowSparks/goldFlowSparks_0011
+  rotate: false
+  xy: 206, 82
+  size: 29, 25
+  orig: 160, 160
+  offset: 65, 75
+  index: -1
+FX/goldFlowSparks/goldFlowSparks_0012
+  rotate: false
+  xy: 61, 52
+  size: 31, 25
+  orig: 160, 160
+  offset: 65, 75
+  index: -1
+FX/goldFlowSparks/goldFlowSparks_0013
+  rotate: false
+  xy: 137, 59
+  size: 31, 25
+  orig: 160, 160
+  offset: 66, 75
+  index: -1
+FX/goldFlowSparks/goldFlowSparks_0014
+  rotate: false
+  xy: 104, 86
+  size: 32, 24
+  orig: 160, 160
+  offset: 65, 75
+  index: -1
+FX/goldFlowSparks/goldFlowSparks_0015
+  rotate: false
+  xy: 138, 86
+  size: 32, 23
+  orig: 160, 160
+  offset: 65, 76
+  index: -1
+FX/goldFlowSparks/goldFlowSparks_0016
+  rotate: true
+  xy: 166, 3
+  size: 26, 23
+  orig: 160, 160
+  offset: 68, 77
+  index: -1
+FX/goldFlowSparks/goldFlowSparks_0017
+  rotate: false
+  xy: 203, 56
+  size: 29, 24
+  orig: 160, 160
+  offset: 67, 77
+  index: -1
+FX/goldFlowSparks/goldFlowSparks_0018
+  rotate: false
+  xy: 93, 7
+  size: 28, 25
+  orig: 160, 160
+  offset: 68, 78
+  index: -1
+FX/goldFlowSparks/goldFlowSparks_0019
+  rotate: false
+  xy: 33, 2
+  size: 29, 26
+  orig: 160, 160
+  offset: 68, 78
+  index: -1
+FX/goldFlowSparks/goldFlowSparks_0020
+  rotate: false
+  xy: 72, 79
+  size: 30, 27
+  orig: 160, 160
+  offset: 68, 78
+  index: -1
+FX/goldFlowSparks/goldFlowSparks_0021
+  rotate: false
+  xy: 140, 111
+  size: 31, 29
+  orig: 160, 160
+  offset: 67, 78
+  index: -1
+FX/goldFlowSparks/goldFlowSparks_0022
+  rotate: false
+  xy: 173, 110
+  size: 31, 30
+  orig: 160, 160
+  offset: 67, 78
+  index: -1
+FX/goldFlowSparks/goldFlowSparks_0023
+  rotate: false
+  xy: 206, 109
+  size: 29, 31
+  orig: 160, 160
+  offset: 66, 78
+  index: -1
+FX/goldFlowSparks/goldFlowSparks_0024
+  rotate: false
+  xy: 72, 108
+  size: 30, 32
+  orig: 160, 160
+  offset: 66, 78
+  index: -1
+FX/goldFlowSparks/goldFlowSparks_0025
+  rotate: false
+  xy: 2, 30
+  size: 30, 33
+  orig: 160, 160
+  offset: 66, 78
+  index: -1
+FX/goldFlowSparks/goldFlowSparks_0026
+  rotate: false
+  xy: 38, 105
+  size: 32, 35
+  orig: 160, 160
+  offset: 65, 77
+  index: -1
+FX/goldFlowSparks/goldFlowSparks_0027
+  rotate: false
+  xy: 2, 65
+  size: 33, 36
+  orig: 160, 160
+  offset: 65, 77
+  index: -1
+FX/goldFlowSparks/goldFlowSparks_0028
+  rotate: false
+  xy: 2, 103
+  size: 34, 37
+  orig: 160, 160
+  offset: 65, 76
+  index: -1
+FX/goldFlowSparks/goldFlowSparks_0029
+  rotate: false
+  xy: 104, 112
+  size: 34, 28
+  orig: 160, 160
+  offset: 65, 76
+  index: -1
+FX/goldFlowSparks/goldFlowSparks_0030
+  rotate: false
+  xy: 172, 85
+  size: 32, 23
+  orig: 160, 160
+  offset: 67, 76
+  index: -1
+FX/goldFlowSparks/goldFlowSparks_0031
+  rotate: false
+  xy: 38, 79
+  size: 32, 24
+  orig: 160, 160
+  offset: 67, 76
+  index: -1
+FX/goldFlowSparks/goldFlowSparks_0032
+  rotate: false
+  xy: 170, 59
+  size: 31, 24
+  orig: 160, 160
+  offset: 68, 76
+  index: -1
+FX/goldFlowSparks/goldFlowSparks_0033
+  rotate: false
+  xy: 94, 34
+  size: 29, 25
+  orig: 160, 160
+  offset: 69, 76
+  index: -1
+FX/goldFlowSparks/goldFlowSparks_0034
+  rotate: false
+  xy: 64, 2
+  size: 27, 26
+  orig: 160, 160
+  offset: 69, 75
+  index: -1
+FX/goldFlowSparks/goldFlowSparks_0035
+  rotate: false
+  xy: 125, 31
+  size: 27, 26
+  orig: 160, 160
+  offset: 69, 76
+  index: -1
+FX/goldFlowSparks/goldFlowSparks_0036
+  rotate: false
+  xy: 203, 82
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+FX/goldFlowSparks/goldFlowSparks_0037
+  rotate: false
+  xy: 203, 82
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+
+goldFlow.png
+size: 490,24
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+goldFlowAnim/goldFlowFrames_0000
+  rotate: false
+  xy: 476, 2
+  size: 12, 20
+  orig: 200, 200
+  offset: 76, 91
+  index: -1
+goldFlowAnim/goldFlowFrames_0001
+  rotate: false
+  xy: 459, 2
+  size: 15, 20
+  orig: 200, 200
+  offset: 76, 91
+  index: -1
+goldFlowAnim/goldFlowFrames_0002
+  rotate: false
+  xy: 438, 2
+  size: 19, 20
+  orig: 200, 200
+  offset: 76, 91
+  index: -1
+goldFlowAnim/goldFlowFrames_0003
+  rotate: false
+  xy: 414, 2
+  size: 22, 20
+  orig: 200, 200
+  offset: 76, 91
+  index: -1
+goldFlowAnim/goldFlowFrames_0004
+  rotate: false
+  xy: 387, 2
+  size: 25, 20
+  orig: 200, 200
+  offset: 76, 91
+  index: -1
+goldFlowAnim/goldFlowFrames_0005
+  rotate: false
+  xy: 359, 2
+  size: 26, 20
+  orig: 200, 200
+  offset: 76, 91
+  index: -1
+goldFlowAnim/goldFlowFrames_0006
+  rotate: false
+  xy: 326, 2
+  size: 31, 20
+  orig: 200, 200
+  offset: 76, 91
+  index: -1
+goldFlowAnim/goldFlowFrames_0007
+  rotate: false
+  xy: 290, 2
+  size: 34, 20
+  orig: 200, 200
+  offset: 76, 91
+  index: -1
+goldFlowAnim/goldFlowFrames_0008
+  rotate: false
+  xy: 248, 2
+  size: 40, 20
+  orig: 200, 200
+  offset: 76, 91
+  index: -1
+goldFlowAnim/goldFlowFrames_0009
+  rotate: false
+  xy: 202, 2
+  size: 44, 20
+  orig: 200, 200
+  offset: 76, 91
+  index: -1
+goldFlowAnim/goldFlowFrames_0010
+  rotate: false
+  xy: 2, 2
+  size: 48, 20
+  orig: 200, 200
+  offset: 76, 91
+  index: -1
+goldFlowAnim/goldFlowFrames_0011
+  rotate: false
+  xy: 52, 2
+  size: 48, 20
+  orig: 200, 200
+  offset: 76, 91
+  index: -1
+goldFlowAnim/goldFlowFrames_0012
+  rotate: false
+  xy: 102, 2
+  size: 48, 20
+  orig: 200, 200
+  offset: 76, 91
+  index: -1
+goldFlowAnim/goldFlowFrames_0013
+  rotate: false
+  xy: 152, 2
+  size: 48, 20
+  orig: 200, 200
+  offset: 76, 91
+  index: -1

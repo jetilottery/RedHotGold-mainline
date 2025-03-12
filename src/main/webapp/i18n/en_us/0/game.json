@@ -1,0 +1,126 @@
+{
+  "version":"",
+  "Paytable": {
+    "RTPvalue": "{@minRTP}%",
+    "RTPrange": "{@minRTP}% to {@maxRTP}%",
+    "paybackTitle": "Expected Payback",
+    "paybackBody": "For this game, the long-term, theoretically-expected payback is {RTP}.",
+    "overallChances": "There is a 1 in {odds} overall chance of winning a prize on each play.",
+    "prizeDivision": "Prize Division",
+    "prizeRemaining": "Approximate Prizes Remaining",
+    "oddsPerPlay": "Odds Per Play",
+    "subheading": "Ticket Cost: {ticketCost}",
+    "prizeLevel": "Prize Level",
+    "description": "Description",
+    "prizeValue": "Prize Value",
+    "descriptionText1": "Symbol Match Win",
+    "descriptionText2": "Bonus Win"
+  },
+  "title": "Red Hot Gold",
+  "MenuCommand": {
+    "price": "Price",
+    "stake": "Stake",
+    "howToPlay": "Help",
+    "paytable": "Paytable",
+    "close": "Close",
+    "audio": {
+      "sound": "Sound",
+      "on": "On",
+      "off": "Off"
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Error: 0 ",
+    "genericErrorText": "There has been an internal error. EXIT and relaunch the game. 0"
+  },
+  "Game": {
+    "footer_balance": "BALANCE 0",
+    "footer_ticketCost": "TICKET COST 0",
+    "ticketSelect_ticketCost": "TICKET COST 0",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "TRY 0 "
+    },
+    "footer_win": {
+      "BUY": "WIN 0",
+      "TRY": "DEMO WIN 0"
+    },
+
+    "button_buy": {
+      "BUY": "BUY 0",
+      "TRY": "TRY 0"
+    },
+    "button_try": "TRY 0",
+    "button_continue": "CONTINUE 0",
+    "button_moveToMoney": "MOVE TO MONEY 0",
+    "button_autoPlay": "AUTO PLAY 0",
+    "button_autoPlayBonus" : "AUTO PLAY 0",
+    "button_start" : "START 0",
+    "button_stop": "STOP 0",
+    "button_playAgain":{
+      "BUY": "PLAY AGAIN 0",
+      "TRY": "TRY AGAIN 0"
+    },
+    "button_tryAgain": "TRY AGAIN 0",
+    "button_retry": "RETRY 0",
+    "button_ok": "OK 0",
+    "button_exit": "EXIT 0",
+    
+    "error_button_exit": "EXIT 0",
+    "error_title": "ERROR 0",
+    
+    "message_nonWin": "BETTER LUCK\nNEXT TIME! 0",
+    "message_win": {
+      "BUY": "TOTAL WIN 0",
+      "TRY": "TOTAL DEMO WIN 0"
+    },
+
+    "howToPlay": "",
+    "howToPlayTitle": "HOW TO PLAY 0",
+    "Bonus": "BONUS 0",
+    "Multiplier": "MULTIPLIER 0",
+    "page2Title": "PICKER BONUS 0",
+    "page3Title": "MULTIPLIER BONUS 0",
+    "page1": "Select 6 of 9 ‘?’ tiles to reveal symbols.Select 6 of 9 ‘?’ tiles to reveal symbols.Select 6 of 9 ‘?’ tiles to reveal symbols.\n\nConnect revealed symbols from left to right on the grid to win up to 2 corresponding prizes.Connect revealed symbols from left to right on the grid to win up to 2 corresponding prizes.Connect revealed symbols from left to right on the grid to win up to 2 corresponding prizes.\n\nReveal lights to fill the multiplier and bonus meters to trigger the bonuses.Reveal lights to fill the multiplier and bonus meters to trigger the bonuses.Reveal lights to fill the multiplier and bonus meters to trigger the bonuses. 0",
+    "page1Port": "Select 6 of 9 ‘?’ tiles to reveal symbols. \n\nConnect revealed symbols from left to right\n on the grid to win up to 2 corresponding prizes. \n\nReveal lights to fill the multiplier\n and bonus meters to trigger the bonuses. 0",
+
+    "page2": "Find a Purple Light to trigger the Picker Bonus.\nSelect dials to reveal prizes.\nUp to 6 prizes may be awarded.\nReveal COLLECT to end the bonus and win all revealed prizes. 0",
+    "page2Port": "Find a Purple Light to trigger the Picker Bonus.\nSelect dials to reveal prizes.\nUp to 6 prizes may be awarded.\nReveal COLLECT to end the bonus\nand win all revealed prizes. 0",
+
+    "page3": "Find 3 Green Lights to trigger the Multiplier Bonus.\n\nPress START to reveal a multiplier of 2x to 5x to apply to the total win. 0",
+    "page3Port": "Find 3 Green Lights to trigger the Multiplier Bonus.\n\nPress START to reveal a multiplier of\n2x to 5x to apply to the total win. 0",
+    "winUpToText": "WIN UP TO 0",
+    "winUpToValue": "{0}! 0",
+    "bonus": "BONUS 0",
+    "bonusNoWin": "NO BONUS WIN 0",
+    "bonusWin": "BONUS: {0} 0",
+
+    "winAll":"WIN ALL 0",
+    "bonusLives":"FIND 3 TO END BONUS 0",
+    "bonusInfo":"FIND 3 OR MORE GOLD STARS TO WIN! 0",
+
+    "yourNumbers": "YOUR NUMBERS 0",
+    "luckyNumbers": "LUCKY NUMBERS 0",
+
+    "column01Header": "FIND 0",
+    "column02Header": "WIN 0",
+
+    "bonusInfo1":"Reveals a PRIZE, SELECT another Dial 0",
+    "bonusInfo2":"COLLECT all revealed prizes 0",
+
+    "bonusValueDisplayDefault": "SELECT dials to reveal prizes 0",
+    "bonusValueCollected": "COLLECTED 0",
+    "bonusValueCollect": "COLLECT 0",
+    "bonusValueSelect": "SELECT 0",
+
+    "multiplierInfo1" : "Adds a multiplier to your current winnings 0",
+    "multiplierInfo1Port" : "Adds a multiplier to your current winnings",
+    "multiplierInfo2" : "2x - 5x 0",
+
+    "multiplierPrizeLabel": "PRIZE 0",
+    "multiplierMultiplierLabel": "MULTIPLIER 0",
+    "multiplierTotalWinLabel": "TOTAL WIN 0",
+
+    "prizeText": "{0}{img} 0"
+  }
+}
